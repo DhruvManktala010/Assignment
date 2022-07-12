@@ -1,0 +1,14 @@
+.leftSideBar{
+    background-color: #042235;
+    height: 100vh;
+    width: 4%;
+    min-width: 60px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    gap: 32px;
+    align-items: center;
+}
+.icon_help{
+    left: 100px;
+}
